@@ -6,8 +6,8 @@
 
 *A modern mobile application for graduation announcements at SMKN 1 Maluk.*
 
-[![Flutter](assets/inputs_page.png)]
-[![Dart](assets/results_page.png)]
+[![UI 1](assets/inputs_page.jpg)]
+[![UI 2](assets/results_page.jpg)]
 
 </div>
 
