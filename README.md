@@ -103,8 +103,8 @@ Developing this application taught me:
 
 For questions, suggestions, or collaboration opportunities, please contact:
 
-- GitHub: [Your GitHub Username](https://github.com/ForcesR2N)
+- GitHub: https://github.com/ForcesR2N
 - Email: muhammadzuhrizal07@gmail.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/muhammad-zuhrizal/)
+- LinkedIn: https://www.linkedin.com/in/muhammad-zuhrizal
 
 ---
