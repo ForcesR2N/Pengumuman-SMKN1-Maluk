@@ -6,12 +6,10 @@
 
 *A modern mobile application for graduation announcements at SMKN 1 Maluk.*
 
-<div align="center">
   <p float="left">
     <img src="assets/inputs_page.jpg" alt="Input Screen" width="250" hspace="10" />
     <img src="assets/results_page.jpg" alt="Results Screen" width="250" hspace="10" />
   </p>
-</div>
 
 </div>
 
